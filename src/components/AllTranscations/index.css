@@ -1,0 +1,18 @@
+.all-transactions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.category {
+  margin-right: 90px;
+  padding-right: 20px;
+}
+.category1 {
+  margin-right: 50px;
+}
+.category2 {
+  margin-right: 50px;
+}
+.category3 {
+  margin-right: 50px;
+}
